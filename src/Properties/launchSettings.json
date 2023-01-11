@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ccc_fan_out_reference": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7208",
+      "launchBrowser": false
+    }
+  }
+}
